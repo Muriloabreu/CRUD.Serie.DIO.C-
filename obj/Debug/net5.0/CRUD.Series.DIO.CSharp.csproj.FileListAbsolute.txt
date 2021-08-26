@@ -1,0 +1,16 @@
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.csproj.AssemblyReference.cache
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.AssemblyInfoInputs.cache
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.AssemblyInfo.cs
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.csproj.CoreCompileInputs.cache
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.exe
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.deps.json
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.runtimeconfig.json
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.runtimeconfig.dev.json
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.dll
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\ref\CRUD.Series.DIO.CSharp.dll
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\bin\Debug\net5.0\CRUD.Series.DIO.CSharp.pdb
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.dll
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\ref\CRUD.Series.DIO.CSharp.dll
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.pdb
+C:\vs-code\C#\Workspace\CRUD.Series.DIO.CSharp\obj\Debug\net5.0\CRUD.Series.DIO.CSharp.genruntimeconfig.cache
